@@ -1,5 +1,8 @@
 body {
   background-color: #e6f6f7;
+  font-family: "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "游ゴシック体",
+    "Yu Gothic", "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "MS PGothic",
+    sans-serif;
 }
 
 .wrap {
